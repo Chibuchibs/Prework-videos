@@ -17,7 +17,7 @@ print("Current job:", current_job)
 print("="*40)
 
 # why I'm learning to code
-print("I'm learning to code because I want to transition into a career in software development and build AI products.")
+print("I am learning to code because I want to transition into a career in software development and build AI products.")
 
 # A fun fact about me
 print("A fun fact about me is that I have been passionate about technology and software development for many years.")
